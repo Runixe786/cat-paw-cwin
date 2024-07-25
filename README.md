@@ -101,3 +101,8 @@ So this is how the final look on your windows desktop will come out. Its always 
   <img src='https://graph.org/file/83d8041a937934beb4f85.jpg' width='700'>
   <img src='https://graph.org/file/4521e3b514c5c63385869.jpg' width='700'>
 </p>
+
+# Themes 
+
+- The theme i used for my setup is [Catppuccin for win 11 by niivu](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390)
+- For those new to using Windows themes please refer to [this guide](https://www.deviantart.com/niivu/art/How-to-install-Windows-10-or-11-Themes-708835586) and the included readme file.
