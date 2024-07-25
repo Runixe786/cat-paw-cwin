@@ -106,3 +106,10 @@ So this is how the final look on your windows desktop will come out. Its always 
 
 - The theme i used for my setup is [Catppuccin for win 11 by niivu](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390)
 - For those new to using Windows themes please refer to [this guide](https://www.deviantart.com/niivu/art/How-to-install-Windows-10-or-11-Themes-708835586) and the included readme file.
+
+# Wallpapers
+
+- I used wallpapers from different source. i will mention all of them anyways, down below.
+- [Source 1](https://github.com/NixOS/nixos-artwork/tree/master/wallpapers)
+- [Source 2](https://github.com/Gingeh/wallpapers)
+
