@@ -34,7 +34,7 @@
 # what is Catppuccin? 
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more!
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! Join their communities in the below links.
 </p>
 
 <p align="center">
@@ -85,8 +85,4 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
       <img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
     </picture>
   </a>
-</p>
-
-<p align="center">
-Join their communities for more!
 </p>
