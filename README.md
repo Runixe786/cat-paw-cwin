@@ -34,5 +34,59 @@
 # what is Catppuccin? 
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more! In addition, this repository tracks the development of the actual color palette, <a href="https://github.com/catppuccin/catppuccin/tree/main/docs"><b>the project's documentation</b></a>, organization-wide assets, resources and code samples for maintainers/developers.
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more!
+</p>
+
+<p align="center">
+  <a href="https://github.com/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://www.npmjs.com/org/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://discord.com/servers/907385605422448742">
+    <picture>
+      <source srcset="assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://twitter.com/catppuccintheme">
+    <picture>
+      <source srcset="assets/social/macchiato_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://fosstodon.org/@catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
+    </picture>
+  </a>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://reddit.com/r/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+Join their communities for more!
 </p>
