@@ -92,10 +92,12 @@ Catppuccin is a community-driven pastel theme that aims to be the middle ground 
 So this is how the final look on your windows desktop will come out. Its always subject to the amount of customisations you do. If you follow instructions as given below in every segment, you will accomplish the same as in screenshots below:
 
 <p align="center">
-  <img src='https://graph.org/file/f624ebe7959b8e32d218f.jpg' width='700'>
-  <img src='https://graph.org/file/fc4b4430bf56bb80f2380.jpg' width='700'>
-  <img src='https://graph.org/file/322fac655fe45808bcca0.jpg' width='700'>
-  <img src='https://graph.org/file/44012347491ac2af73e60.jpg' width='700'>
-  <img src='https://graph.org/file/b6d2f50a94e557367f9fc.jpg' width='700'>
-  <img src='https://graph.org/file/9e2a334b753c5bffc0b5e.jpg' width='700'>
+  <img src='https://graph.org/file/fc7bfbe942186cf0405c5.jpg' width='700'>
+  <img src='https://graph.org/file/cc607a10ddea199c8db56.jpg' width='700'>
+  <img src='https://graph.org/file/d7692c68dc753ca60d7a0.jpg' width='700'>
+  <img src='https://graph.org/file/60b321cf000d30118a449.jpg' width='700'>
+  <img src='https://graph.org/file/babaf72312cf414603e86.jpg' width='700'>
+  <img src='https://graph.org/file/dbf29660d670cd954ec3d.jpg' width='700'>
+  <img src='https://graph.org/file/83d8041a937934beb4f85.jpg' width='700'>
+  <img src='https://graph.org/file/4521e3b514c5c63385869.jpg' width='700'>
 </p>
