@@ -27,7 +27,6 @@
 * [File Explorer](#File-Explorer)
 * [Cursors](#Cursors)
 * [Extra customisations](#Extra-customisations)
-* [Credits](#Credits)
 * [Feedback](#Feedback)
 
 
@@ -169,4 +168,14 @@ except all this, you can still catppuccin-ised some apps and webapps you use reg
 - [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
 
   <br> </br> You can check out more apps and webapps through their [official github repo](https://github.com/catppuccin/catppuccin?tab=readme-ov-file)
+
+# Feedback 
+If you find any broken or wrong text or link Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/Catppuccin-setup/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
+
+**Do star this repo to show your support and share as well, means a lot**. Thanks, see yaa 💝
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
 
