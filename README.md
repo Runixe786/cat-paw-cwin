@@ -118,7 +118,7 @@ I used wallpapers from different source. i will mention all of them anyways, dow
 # Rainmeter widgets
 
 I have used 2 types of skins in my setup, both are mentioned below
-<br> </br> Note: you might have to make modifications to the second skin particularly for weather and music widgets
+<br> </br> Note: you might have to make modifications to the first skin particularly for weather and music widgets. or just try find the modified version by me in releases.
 
 - [Source 1](https://www.deviantart.com/users/outgoing?https://vsthemes.org/en/skins/rainmeter/52177-catppucin.html)
 - [Source 2](https://www.deviantart.com/users/outgoing?https://github.com/modkavartini/catppuccin)
