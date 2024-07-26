@@ -109,7 +109,64 @@ So this is how the final look on your windows desktop will come out. Its always 
 
 # Wallpapers
 
-- I used wallpapers from different source. i will mention all of them anyways, down below.
+I used wallpapers from different source. i will mention all of them anyways, down below.
+,br> </br> **Note:** the wallpaper is used is from source 3. 
+
 - [Source 1](https://github.com/NixOS/nixos-artwork/tree/master/wallpapers)
 - [Source 2](https://github.com/Gingeh/wallpapers)
+- [Source 3](https://github.com/er2de2/catppuccin_walls/tree/master/wallpapers_png)
+
+# Rainmeter widgets
+
+I have used 2 types of skins in my setup, both are mentioned below
+<br> </br> Note: you might have to make modifications to the second skin particularly for weather and music widgets
+
+- [Source 1](https://www.deviantart.com/users/outgoing?https://vsthemes.org/en/skins/rainmeter/52177-catppucin.html)
+- [Source 2](https://www.deviantart.com/users/outgoing?https://github.com/modkavartini/catppuccin)
+
+# Status bar
+
+The bar at top is from the first rainmeter skin mentioned above
+
+# Icon pack
+
+the icon pack i used can be found itself in the theme folder which is mentioned above already in [Themes](#Themes) section
+<br> </br> there are variety of icon packs to choose from, you can select any and install through 7tsp
+
+# File explorer
+
+- Though file explorer will get customised itself with theme and icon pack, but you can make it better with explorerblurmica tool
+- Just open its config file, set effect to 1 and set r,g,b and a under [dark] section to 22,19,32 and 200 respectively
+
+# Cursors
+
+For cursors i used the [catppuccin cursors by niivu](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705)
+
+# Extra customisations
+
+except all this, you can still catppuccin-ised some apps and webapps you use regularly. i will mention below some of them which i personally themed.
+<br> </br> **Note:** Install the [stylus extension](https://add0n.com/stylus.html) before proceeding.
+
+- [Discord](https://github.com/catppuccin/discord)
+- [Telegram](https://t.me/addtheme/ctp_mocha)
+- [Instagram](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/instagram/catppuccin.user.css)
+- [Reddit](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/reddit/catppuccin.user.css) 
+- [WHatsapp web](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/whatsapp-web/catppuccin.user.css)
+- [Twitter (X)](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/twitter/catppuccin.user.css)
+- [Spotify](https://github.com/catppuccin/spicetify)
+- [Youtube](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/youtube/catppuccin.user.css)
+- [Youtube music](https://github.com/catppuccin/youtubemusic)
+- [ChatGPT](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/chatgpt/catppuccin.user.css)
+- [Gemini](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/google-gemini/catppuccin.user.css)
+- [gmail](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/gmail/catppuccin.user.css)
+- [linkedin](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/linkedin/catppuccin.user.css)
+- [Github](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/github/catppuccin.user.css)
+- [MS edge/chrome](https://chrome.google.com/webstore/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
+- [firefox](https://github.com/catppuccin/firefox)
+- [terminal](https://github.com/catppuccin/windows-terminal)
+- [google search engine](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/google/catppuccin.user.css)
+- [wikipedia](https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/wikipedia/catppuccin.user.css)
+- [SumatraPDF](https://github.com/catppuccin/sumatra-pdf)
+
+  <br> </br> You can check out more apps and webapps through their [official github repo](https://github.com/catppuccin/catppuccin?tab=readme-ov-file)
 
