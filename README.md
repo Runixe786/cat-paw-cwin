@@ -121,7 +121,7 @@ So this is how the final look on your windows desktop will come out. Its always 
 # Wallpapers
 
 I used wallpapers from different source. i will mention all of them anyways, down below.
-,br> </br> **Note:** the wallpaper is used is from source 3. 
+<br> </br> **Note:** the wallpaper is used is from source 3. 
 
 - [Source 1](https://github.com/NixOS/nixos-artwork/tree/master/wallpapers)
 - [Source 2](https://github.com/Gingeh/wallpapers)
